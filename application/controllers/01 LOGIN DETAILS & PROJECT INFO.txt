@@ -2,7 +2,7 @@
 
 **Database Name: gymci22**
 
-**Developed by Hanzala Afzal**
+**Developed by Jumia ELan Roy**
 
 **Recommended PHP version 5.6**
 
